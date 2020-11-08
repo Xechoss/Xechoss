@@ -6,24 +6,24 @@
 </p>
 
 - 😄**后端**
-- 😃**前端**
+- 💬**前端**
 - 😆**数据库**
 - 😝**框架**
 - 😛**设计**
-- 😧
-
-
+- 😧**都不会**
 
 
 <details>
 <summary>GitHub统计信息</summary>
 <br/>
 
-> 动态太少，不好意思展示
+> 动态太少，😭😭😭
 >
 
 <a href="https://github.com/Tcrushes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tcrushes&show_icons=true&theme=radical" /></a>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tcrushes&exclude_repo=single-cycle-CPU,Tcrushes.github.io)
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tcrushes&show_icons=true&theme=radical" /></a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tcrushes&exclude_repo=single-cycle-CPU,Tcrushes.github.io)
 
 <!--
 **Tcrushes/Tcrushes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
