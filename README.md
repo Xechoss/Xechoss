@@ -4,6 +4,17 @@
   <a href="https://gitee.com/Tcrush6"><img src="https://img.shields.io/badge/Gitee-fe7300" alt="gitee"></a>
   <a href="https://blog.csdn.net/chaifang0620"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
 </p>
+```shell
+
+___________                       .__     
+\__    ___/__________ __ __  _____|  |__  
+  |    |_/ ___\_  __ \  |  \/  ___/  |  \ 
+  |    |\  \___|  | \/  |  /\___ \|   Y  \
+  |____| \___  >__|  |____//____  >___|  /
+             \/                 \/     \/ 
+                          
+```
+
 
 - 😄**后端**
 - 💬**前端**
@@ -23,7 +34,11 @@
 <a href="https://github.com/Tcrushes">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tcrushes&show_icons=true&theme=radical" /></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tcrushes&exclude_repo=single-cycle-CPU,Tcrushes.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tcrushes&exclude_repo=single-cycle-CPU,Tcrushes.github.io)                        
+
+
+
+
 
 <!--
 **Tcrushes/Tcrushes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
