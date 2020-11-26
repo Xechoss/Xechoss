@@ -4,7 +4,8 @@
   <a href="https://gitee.com/Tcrush6"><img src="https://img.shields.io/badge/Gitee-fe7300" alt="gitee"></a>
   <a href="https://blog.csdn.net/chaifang0620"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
 </p>
-```shell
+
+```
 
 ___________                       .__     
 \__    ___/__________ __ __  _____|  |__  
